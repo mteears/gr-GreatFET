@@ -1,0 +1,23 @@
+Start testing: Aug 08 15:28 PDT
+----------------------------------------------------------
+1/1 Testing: qa_gpio_sink_f
+1/1 Test: qa_gpio_sink_f
+Command: "/usr/bin/sh" "/root/Documents/GNURadio/oot/gr-GreatFET/build/python/qa_gpio_sink_f_test.sh"
+Directory: /root/Documents/GNURadio/oot/gr-GreatFET/build/python
+"qa_gpio_sink_f" start time: Aug 08 15:28 PDT
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"qa_gpio_sink_f" end time: Aug 08 15:28 PDT
+"qa_gpio_sink_f" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 08 15:28 PDT

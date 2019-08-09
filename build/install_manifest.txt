@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/GreatFET/GreatFETConfig.cmake
+/usr/local/include/GreatFET/api.h
+/usr/local/lib/python2.7/dist-packages/GreatFET/__init__.py
+/usr/local/lib/python2.7/dist-packages/GreatFET/gpio_sink_f.py
+/usr/local/lib/python2.7/dist-packages/GreatFET/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/GreatFET/gpio_sink_f.pyc
+/usr/local/lib/python2.7/dist-packages/GreatFET/__init__.pyo
+/usr/local/lib/python2.7/dist-packages/GreatFET/gpio_sink_f.pyo
+/usr/local/share/gnuradio/grc/blocks/GreatFET_gpio_sink_f.xml
