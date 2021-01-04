@@ -1,6 +1,5 @@
 # gr-GreatFET
 Various GNURadio blocks for interfacing with GreatFET
-
 Installation:
 cd build/
 cmake ../
